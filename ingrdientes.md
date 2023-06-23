@@ -1,0 +1,7 @@
+peperoni 
+chanpiñones
+pollo 
+jamon
+
+
+
